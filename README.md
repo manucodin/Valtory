@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/valtorydev" target="blank"><img src="https://img.shields.io/twitter/follow/valtorydev?logo=twitter&style=for-the-badge" alt="valtorydev" /></a> </p>
 
-- 🔭 I’m currently working on **React, Nextjs, Typescript, styled Component**
+- 🔭 I’m currently working on **React, Nextjs, Typescript, Styled Component**
 
-- 🌱 I’m currently learning **Vue, Node, Nest js,**
+- 🌱 I’m currently learning **Vue, Node, Nest js**
 
-- 🤝 I’m member of a great community >>> [SysArmy](sysarmy.com)
+- 🤝 I’m member of a great community >>> [SysArmy](https://sysarmy.com/en/)
 
 - 👨‍💻 All of my projects are available at [https://valtory.web.app/](https://valtory.web.app/)
 
@@ -22,8 +22,7 @@
 <a href="https://dev.to/valtory" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="valtory" height="30" width="40" /></a>
 <a href="https://twitter.com/valtorydev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="valtorydev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/valeria-ibanez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valeria-ibanez" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sysarmy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sysarmy" height="30" width="40" /></a>
-<a href="https://discord.gg/sysarmy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sysarmy" height="30" width="40" /></a>
+<a href="https://discord.gg/8RYYGhuA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sysarmy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
