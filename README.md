@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/valtorydev" target="blank"><img src="https://img.shields.io/twitter/follow/valtorydev?logo=twitter&style=for-the-badge" alt="valtorydev" /></a> </p>
 
-- 🔭 I’m currently working on **React, Nextjs, React-Native, Typescript, Styled Component**
+- 🔭 I’m currently working on **React, Nextjs, React-Native, Typescript, Styled Component, Storybook**
 
 - 🌱 I’m currently learning **Node, Nest js, Android, Ios**
 
