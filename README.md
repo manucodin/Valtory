@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/valtorydev" target="blank"><img src="https://img.shields.io/twitter/follow/valtorydev?logo=twitter&style=for-the-badge" alt="valtorydev" /></a> </p>
 
-- 🔭 I’m currently working on **React, Nextjs, Typescript, Styled Component**
+- 🔭 I’m currently working on **React, Nextjs, React-Native, Typescript, Styled Component**
 
-- 🌱 I’m currently learning **Vue, Node, Nest js**
+- 🌱 I’m currently learning **Node, Nest js, Android, Ios**
 
 - 🤝 I’m member of a great community >>> [SysArmy](https://sysarmy.com/en/)
 
@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://dev.to/valtory](https://dev.to/valtory)
 
-- 📫 How to reach me **valeria.ibanez.lynx@gmail.com**
+- 📫 How to reach me **contact@valtory.dev**
 
 - ⚡ Fun fact **I love play with swords and arrows**
 
