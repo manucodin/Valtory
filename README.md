@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Valeria</h1>
-<h3 align="center">A passionate full stack developer and sword fighting instructor</h3>
+<h3 align="center">A passionate Software Developer and Teach Lead </h3>
 
 <p align="left"> <a href="https://twitter.com/valtorydev" target="blank"><img src="https://img.shields.io/twitter/follow/valtorydev?logo=twitter&style=for-the-badge" alt="valtorydev" /></a> </p>
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **contact@valtory.dev**
 
-- ⚡ Fun fact **I love play with swords and arrows**
+- ⚡ Fun fact **I love play with swords and arrows, I'm a sword instructor teaching Historical European Martial Arts**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
